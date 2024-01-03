@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398944230124",
+    "project_id": "project-travel-86a9e",
+    "storage_bucket": "project-travel-86a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398944230124:android:3ed99a6a4652ddb4d963c9",
+        "android_client_info": {
+          "package_name": "com.example.application_mavric"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtfXvlpM4Y4T8V1JyvMaE7Av08YvAMZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
